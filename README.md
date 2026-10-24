@@ -11,7 +11,7 @@ and story.
 - embed_codes.txt: Tableau Public embed codes
 
 ## Links
-- Tableau Public workbook: [paste your Tableau Public link]
+- Tableau Public workbook: https://public.tableau.com/shared/DTNQYZG5H?:display_count=n&:origin=viz_share_link
 - Demo video: [paste your video link when ready]
 
 ## How to run the Flask app

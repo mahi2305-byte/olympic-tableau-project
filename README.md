@@ -12,7 +12,7 @@ and story.
 
 ## Links
 - Tableau Public workbook: https://public.tableau.com/shared/DTNQYZG5H?:display_count=n&:origin=viz_share_link
-- Demo video: [paste your video link when ready]
+- Demo video: https://drive.google.com/file/d/1n2VJ9DAsfdBM-hvQuxqlun1mplrgy8hI/view?usp=sharing
 
 ## How to run the Flask app
 1. pip install flask
